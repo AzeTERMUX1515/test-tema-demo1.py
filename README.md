@@ -1,1 +1,4 @@
-# test-tema-demo1.py
+z=100
+y=500
+z=x+y
+print(z)
